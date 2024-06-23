@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABEDstore", "ABEDstore.csproj", "{15D5B5C2-6AE7-46D5-85A0-AD5424269A2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15D5B5C2-6AE7-46D5-85A0-AD5424269A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D5B5C2-6AE7-46D5-85A0-AD5424269A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D5B5C2-6AE7-46D5-85A0-AD5424269A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D5B5C2-6AE7-46D5-85A0-AD5424269A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A28AF804-2FDB-4BBC-A4D3-6E84E45D0A70}
+	EndGlobalSection
+EndGlobal
